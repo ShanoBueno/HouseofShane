@@ -1,0 +1,191 @@
+* {margin:0;
+  width: auto; 
+  border: 15px;
+  }
+
+h1 {
+  font-weight: bold;
+  font-size: 36px;
+  color: lightcyan;
+  margin-left: 10%;
+  display: inline;
+  padding-bottom: 15px; 
+}
+
+  .nav {
+  float: right;
+ 
+  color: lightcyan;
+  margin-right: 20%;
+
+}
+
+h2 {
+  margin-left: 20%;
+  font-size: 50px; 
+  width: 250px; 
+  border-right-style:solid;
+  border-right-color: darkslategray;
+  border-right-width: 4px; 
+}
+
+header nav ul li {
+  display: inline;
+  color: lightcyan;
+  font-size:larger;
+  margin-left: 15px; 
+
+}
+
+.header {
+  background-color: darkslategray;
+
+}
+
+header a{
+  font-weight:30px; 
+  color:lightcyan;
+}
+
+.hero {
+  background-image: url(https://s3.us-east-1.amazonaws.com/s3.discoveryplace.org/craft3/card-images/binary-code.jpg);
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  border-bottom-style: solid;
+  border-bottom-width: 4px;
+  border-bottom-color:darkslategray; 
+  
+}
+
+.herosub {
+  position:relative;
+  display:flex; 
+  align-items: baseline;
+  background-color: darkgray;
+
+
+
+}
+
+.content {
+  display: flex;
+  flex-direction: column; 
+  width: auto;
+  margin-right:
+  background-color: lightgray;
+  color: darkslategray;
+  overflow: auto
+}
+
+.aboutmetext {
+  width: 900px;
+  float: right;
+  margin-right: 10px ;
+}
+
+.allworks {
+  width: 900px;
+  float: right; 
+  
+}
+
+body ul li {
+  display: flex;
+  float: right;
+  margin-right: 20px; 
+  font-size:large
+
+}
+
+.surf {
+  background-image: url(https://www.surfertoday.com/images/stories/surf-report.jpg);
+  width:850px; 
+  height: 200px; 
+  border: 2px darkslategray; 
+  border-style: solid;
+  border-width: 4px; 
+  border-color: darkslategray;
+  opacity: 50%;
+
+}
+
+.surf:hover {
+  opacity: 100%
+}
+
+.led{
+  background-image: url(https://image.freepik.com/free-vector/led-wall-video-screen-with-glowing-dot-lights_107791-2938.jpg);
+  height: 200px; 
+  width: 400px; 
+  margin: 15px; 
+  border-style: solid;
+  border-width: 4px; 
+  border-color: darkslategray;
+  opacity: 50%;
+}
+
+.led:hover{
+  opacity:100%
+
+}
+
+
+.calculator{
+  background-image: url(https://www.collinsdictionary.com/images/full/calculator_160993982.jpg?version=4.0.148); 
+  height: 200px;
+  width: 400px;
+  margin: 15px;
+  border-style: solid;
+  border-width: 4px; 
+  border-color: darkslategray;
+  opacity: 50%;
+}
+
+.calculator:hover{
+  opacity: 100%
+}
+
+.pastel{
+  background-image: url(https://i.pinimg.com/originals/63/9e/2f/639e2f3d8d21094a377c30d5362f6f6b.jpg);
+  height: 200px;
+  width: 400px; 
+  margin: 15px; 
+  border-style: solid;
+  border-width: 4px; 
+  border-color: darkslategray;
+  opacity: 50%;
+
+}
+
+.pastel:hover{
+  opacity:100%; 
+}
+
+.runbuddy{
+  background-image: url(https://www.rei.com/dam/content_team_010818_52427_htc_running_shoes_hero2_lg.jpg);
+  height: 200px; 
+  width: 400px; 
+  margin: 15px; 
+   border-style: solid;
+  border-width: 4px; 
+  border-color: darkslategray;
+  opacity: 50%;
+}
+
+.runbuddy:hover{
+  opacity:100%; 
+}
+
+.container{
+  display:flex;
+  flex-wrap: wrap;
+  width:900px; 
+  
+
+}
+
+.channels {
+  margin-right: 20px; 
+  size: 20px; 
+}
